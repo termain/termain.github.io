@@ -1,5 +1,5 @@
 ---
-title: How to Remove a Baby Bottle Cap from a Kitchen Sink Drain
+title: Cap In Drain
 layout: post
 ---
 
