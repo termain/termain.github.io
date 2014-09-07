@@ -9,6 +9,15 @@ Useful Links
 
 * [Jekyll Quickstart Guide](http://jekyllrb.com/docs/quickstart/)
 
+* ["How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole"](http://joshualande.com/jekyll-github-pages-poole/)
+
+Todo
+====
+* Finish up file structure section.
+* Migrate old blogs
+
+
+
 File Structure
 ==============
 
